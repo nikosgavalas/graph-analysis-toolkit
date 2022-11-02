@@ -113,7 +113,7 @@ en = ElectricalNetwork(graph( ...
 x = [2; 0; 0; -2];
 
 %
-% R-model simulation
+% R-model
 %
 GG = GraphGenerator();
 N = 10;         % change me
